@@ -1,8 +1,3 @@
-initialBoard([
-[empty]
-]).
-
-
 %len of a string%
 len([],0).
 
